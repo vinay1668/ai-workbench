@@ -1,0 +1,29 @@
+# Keep this public collection limited to authored, shareable material.
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+.mcp.json
+.npmrc
+.aws/
+.ssh/
+.codex/
+.claude/
+.cursor/
+.vscode/
+node_modules/
+.venv/
+__pycache__/
+private/
+personal/
+research-raw/
+*.log
+*.zip
+
+# .gitignore is not a secret scanner. Review staged files and history.
