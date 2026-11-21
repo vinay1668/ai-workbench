@@ -2,6 +2,18 @@
 
 Research date: **2026-11-21**.
 
+## Expanded directory
+
+The current directory contains **140 unique linked resources in 12 categories**. Its complete public source record is [data/resources.json](data/resources.json); the [catalog](CATALOG.md) groups it by task. The table below preserves the original 19-source research record rather than pretending that the first edition covered the full expansion.
+
+For the expansion, TinyFish Search discovered resource categories and candidate owners. TinyFish Fetch retrieved the 140 source pages, and raw `SKILL.md` files were additionally fetched for the ten direct Anthropic skill-folder entries. No tools, skills, integrations, or upstream installation scripts were executed. The only generated images are original programmatic artwork.
+
+Each manifest entry records its source URL, page title, review date, lifecycle, purpose, setup and limitation. A source page can expose only a short project description, especially large GitHub indexes; those entries are discovery links and their contents are not individually audited. The official registry page was fetched, but its entire dynamically loaded server inventory was not crawled. “Source-checked” does not mean installed, independently tested, benchmarked, endorsed by its author, or verified safe.
+
+The review found archived or unmaintained repositories and upstream successor recommendations. Nine entries are labeled historical or superseded and separated within category pages. Search excludes these by default. Redirected projects use the fetched canonical destination, while `discovered_url` retains the original public discovery URL.
+
+Additional discovery queries included official developer MCP servers, Microsoft/Hugging Face/Copilot skills, and developer AI application/evaluation collections. Selection favors a clear developer task, an identifiable owning source, concise requirements, and a practical limitation. No claim is made to cover every MCP server or developer need.
+
 Method: TinyFish Search for discovery; TinyFish Fetch for reading public repository pages and the listed frontend skill file. The descriptions and recommendations in this collection are paraphrases and editorial synthesis. No upstream software was executed or installed. No third-party skill or artwork was vendored.
 
 ## Pages read and included
